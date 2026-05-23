@@ -27,3 +27,4 @@ Data is updated dynamically within the app without restarting it
 Updated list of study tasks is displayed on the mobile screen
 Tasks are shown with details and deadlines
 Changes are reflected in real-time in the app interface
+
